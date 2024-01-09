@@ -36,11 +36,32 @@
 }
 
 .new-year-discount{
-
+text-align: center;
+margin-top: 100px;
 }
 
 .discount-text-container{
+line-height: 60px;
+}
+.discount-text-container h1{
+    color: #F00;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
 
+}
+.discount-text-container p{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 40px;
+}
+.discount-text-container h3{
+    color: #070211;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
 }
 
 .welcome-banner{
