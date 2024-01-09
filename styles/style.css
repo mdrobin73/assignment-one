@@ -11,7 +11,7 @@
 }
 
 .banner{
-    background-image: url("../resources/Banner\ Image.png");
+    background-image: url("../resources/banner-image.png");
     background-repeat: no-repeat;
     background-size: cover;
     padding: 216px 0px;
@@ -65,7 +65,7 @@ line-height: 60px;
 }
 
 .welcome-banner{
-    background-image: url("../resources/Vectorrr.png");
+    background-image: url("../resources/vectorr.png");
     background-repeat: no-repeat;
     background-size: cover;
     padding: 319px 0px;
@@ -109,11 +109,11 @@ line-height: 60px;
     text-transform: uppercase;
 }
 
-.holiday-sale-discount{
+.join-now{
 
 }
 
-.join-now{
+.holiday-sale-discount{
 
 }
 
