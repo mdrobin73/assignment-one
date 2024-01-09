@@ -13,9 +13,9 @@
 .banner{
     background-image: url("../resources/banner-image.png");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     padding: 216px 0px;
-    opacity: 0.94;
+    /* opacity: 0.94; */
     background-position: center;
 }
 
@@ -38,6 +38,9 @@
 .new-year-discount{
 text-align: center;
 margin-top: 100px;
+}
+.new-year-discount img{
+margin-top: 30px;
 }
 
 .discount-text-container{
@@ -67,11 +70,18 @@ line-height: 60px;
 .welcome-banner{
     background-image: url("../resources/vectorr.png");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     padding: 319px 0px;
     background-position: center;
-    margin-top: 80px;
+    margin-top: 40px;
     border-radius: 10px;
+    position: relative;
+}
+
+.welcome-banner img{
+    position: absolute;
+    top: 300px;
+    right: 150px;
 }
 
 .banner-text-midnight{
