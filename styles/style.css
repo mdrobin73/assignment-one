@@ -126,6 +126,42 @@ background-color: red;
 border: 0px;
 margin-top: 40px;
 }
+.portfolio{
+width: 100%;
+}
+.portfolio-text{
+margin-bottom: 30px;
+line-height: 40px;
+}
+.portfolio-text h2{
+    color: #070211;
+
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.pr-text{
+    padding-right: 800px;
+    line-height: 30px;
+}
+.portfolio-text span{
+    color: #F00;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.portfolio-images{
+margin-bottom: 30px;
+}
+.portfolio-images img{
+    margin-right: 40px;
+}
 .main-footer {
     background: #070211;
     padding: 150px;
