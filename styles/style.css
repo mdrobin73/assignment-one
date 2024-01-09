@@ -2,12 +2,10 @@
     margin: 0px;
     padding: 0px;
 }
-
 .container {
     margin: 40px auto;
     width: 1400px;
 }
-
 .banner {
     background-image: url("../resources/banner-image.png");
     background-repeat: no-repeat;
@@ -16,46 +14,37 @@
     /* opacity: 0.94; */
     background-position: center;
 }
-
 .banner-text {
     text-align: center;
 }
-
 .banner-text h3 {
     color: #FFF;
     font-family: Merriweather;
     font-size: 32px;
     font-weight: 400;
 }
-
 .banner-text h1 {
     color: #FFF;
     font-family: Merriweather;
     font-size: 72px;
     font-weight: 900;
 }
-
 .new-year-discount {
     text-align: center;
     margin-top: 100px;
 }
-
 .new-year-discount img {
     margin-top: 30px;
 }
-
 .discount-text-container {
     line-height: 60px;
 }
-
 .discount-text-container h1 {
     color: #F00;
     font-family: Inter;
     font-size: 88px;
     font-weight: 700;
-
 }
-
 .discount-text-container p {
     color: #F00;
     font-family: Inter;
@@ -63,16 +52,14 @@
     font-weight: 500;
     margin-top: 40px;
 }
-
 .discount-text-container h3 {
     color: #070211;
     font-family: Inter;
     font-size: 48px;
     font-style: normal;
 }
-
 .welcome-banner {
-    background-image: url("../resources/vectorr.png");
+    background-image: url("../resources/vector.png");
     background-repeat: no-repeat;
     background-size: contain;
     padding: 319px 0px;
@@ -81,19 +68,16 @@
     border-radius: 10px;
     position: relative;
 }
-
 .welcome-banner img {
     position: absolute;
     top: 300px;
     right: 150px;
 }
-
 .banner-text-midnight {
     text-align: left;
     padding-left: 126px;
     padding-right: 600px;
 }
-
 .banner-text-midnight h1 {
     color: #FFF;
     font-family: Merriweather;
@@ -104,7 +88,6 @@
     letter-spacing: 7.04px;
     margin-bottom: 50px;
 }
-
 .banner-text-midnight p {
     color: rgba(255, 255, 255, 0.80);
     font-family: Inter;
@@ -114,7 +97,6 @@
     line-height: 30px;
     margin-bottom: 50px;
 }
-
 .banner-text-midnight h3>a {
     color: #FFF;
     text-align: center;
@@ -125,14 +107,12 @@
     line-height: normal;
     text-transform: uppercase;
 }
-
 .join-now {
     background-color: rgb(255, 240, 242);
     text-align: center;
     padding: 100px 300px 200px 300px;
     line-height: 45px;
 }
-
 .join-now button{
 color: #FFF;
 font-family: Inter;
@@ -142,30 +122,13 @@ background-color: red;
 border: 0px;
 margin-top: 40px;
 }
-
-.holiday-sale-discount {}
-
-.coming-soon {}
-
-.holiday-sale {}
-
-.portfolio {}
-
-.portfolio-text {}
-
-.portfolio-images {}
-
-.subscribe-newsletter {}
-
 .main-footer {
     background: #070211;
     padding: 150px;
 }
-
 .main-footer hr {
     opacity: 0.1;
 }
-
 .footer-column {
     color: #FFF;
     font-family: Inter;
@@ -175,24 +138,19 @@ margin-top: 40px;
     justify-content: space-between;
     margin-bottom: 50px;
 }
-
 .column-left {
     line-height: 25px;
 }
-
 .column-right {
     line-height: 25px;
 }
-
 .footer-social-links {
     text-align: center;
     margin: 30px 0px;
 }
-
 .footer-social-links img {
     margin-right: 20px;
 }
-
 .footer-copyright {
     color: #FFF;
     font-family: Inter;
@@ -209,6 +167,3 @@ margin-top: 40px;
     font-style: normal;
     text-decoration: none;
 }
-
-. 
-.
