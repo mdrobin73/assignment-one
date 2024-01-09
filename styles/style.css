@@ -1,16 +1,14 @@
-
-
-*{
+* {
     margin: 0px;
     padding: 0px;
 }
 
-.container{
+.container {
     margin: 40px auto;
     width: 1400px;
 }
 
-.banner{
+.banner {
     background-image: url("../resources/banner-image.png");
     background-repeat: no-repeat;
     background-size: contain;
@@ -19,55 +17,61 @@
     background-position: center;
 }
 
-.banner-text{
+.banner-text {
     text-align: center;
 }
-.banner-text h3{
+
+.banner-text h3 {
     color: #FFF;
     font-family: Merriweather;
     font-size: 32px;
     font-weight: 400;
 }
-.banner-text h1{
+
+.banner-text h1 {
     color: #FFF;
     font-family: Merriweather;
     font-size: 72px;
     font-weight: 900;
 }
 
-.new-year-discount{
-text-align: center;
-margin-top: 100px;
-}
-.new-year-discount img{
-margin-top: 30px;
+.new-year-discount {
+    text-align: center;
+    margin-top: 100px;
 }
 
-.discount-text-container{
-line-height: 60px;
+.new-year-discount img {
+    margin-top: 30px;
 }
-.discount-text-container h1{
+
+.discount-text-container {
+    line-height: 60px;
+}
+
+.discount-text-container h1 {
     color: #F00;
     font-family: Inter;
     font-size: 88px;
     font-weight: 700;
 
 }
-.discount-text-container p{
+
+.discount-text-container p {
     color: #F00;
     font-family: Inter;
     font-size: 24px;
     font-weight: 500;
     margin-top: 40px;
 }
-.discount-text-container h3{
+
+.discount-text-container h3 {
     color: #070211;
     font-family: Inter;
     font-size: 48px;
     font-style: normal;
 }
 
-.welcome-banner{
+.welcome-banner {
     background-image: url("../resources/vectorr.png");
     background-repeat: no-repeat;
     background-size: contain;
@@ -78,18 +82,19 @@ line-height: 60px;
     position: relative;
 }
 
-.welcome-banner img{
+.welcome-banner img {
     position: absolute;
     top: 300px;
     right: 150px;
 }
 
-.banner-text-midnight{
+.banner-text-midnight {
     text-align: left;
     padding-left: 126px;
     padding-right: 600px;
 }
-.banner-text-midnight h1{
+
+.banner-text-midnight h1 {
     color: #FFF;
     font-family: Merriweather;
     font-size: 64px;
@@ -99,7 +104,8 @@ line-height: 60px;
     letter-spacing: 7.04px;
     margin-bottom: 50px;
 }
-.banner-text-midnight p{
+
+.banner-text-midnight p {
     color: rgba(255, 255, 255, 0.80);
     font-family: Inter;
     font-size: 18px;
@@ -108,7 +114,8 @@ line-height: 60px;
     line-height: 30px;
     margin-bottom: 50px;
 }
-.banner-text-midnight h3 > a{
+
+.banner-text-midnight h3>a {
     color: #FFF;
     text-align: center;
     font-family: Inter;
@@ -119,88 +126,89 @@ line-height: 60px;
     text-transform: uppercase;
 }
 
-.join-now{
-
+.join-now {
+    background-color: rgb(255, 240, 242);
+    text-align: center;
+    padding: 100px 300px 200px 300px;
+    line-height: 45px;
 }
 
-.holiday-sale-discount{
-
+.join-now button{
+color: #FFF;
+font-family: Inter;
+padding: 10px;
+border-radius: 5px;
+background-color: red;
+border: 0px;
+margin-top: 40px;
 }
 
-.coming-soon{
+.holiday-sale-discount {}
 
+.coming-soon {}
+
+.holiday-sale {}
+
+.portfolio {}
+
+.portfolio-text {}
+
+.portfolio-images {}
+
+.subscribe-newsletter {}
+
+.main-footer {
+    background: #070211;
+    padding: 150px;
 }
 
-.holiday-sale{
-
+.main-footer hr {
+    opacity: 0.1;
 }
 
-.portfolio{
-
+.footer-column {
+    color: #FFF;
+    font-family: Inter;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
 }
 
-.portfolio-text{
-
+.column-left {
+    line-height: 25px;
 }
 
-.portfolio-images{
-
+.column-right {
+    line-height: 25px;
 }
 
-.subscribe-newsletter{
-
+.footer-social-links {
+    text-align: center;
+    margin: 30px 0px;
 }
 
-.footer-column{
-
+.footer-social-links img {
+    margin-right: 20px;
 }
 
-.column-left{
-
+.footer-copyright {
+    color: #FFF;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer-copyright a {
+    color: #FFF;
+    font-family: Inter;
+    font-style: normal;
+    text-decoration: none;
 }
 
-.column-right{
-
-}
-
-.footer-social-links{
-
-}
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+. 
 .
