@@ -2,10 +2,12 @@
     margin: 0px;
     padding: 0px;
 }
+
 .container {
     margin: 40px auto;
     width: 1400px;
 }
+
 .banner {
     background-image: url("../resources/banner-image.png");
     background-repeat: no-repeat;
@@ -14,37 +16,45 @@
     /* opacity: 0.94; */
     background-position: center;
 }
+
 .banner-text {
     text-align: center;
 }
+
 .banner-text h3 {
     color: #FFF;
     font-family: Merriweather;
     font-size: 32px;
     font-weight: 400;
 }
+
 .banner-text h1 {
     color: #FFF;
     font-family: Merriweather;
     font-size: 72px;
     font-weight: 900;
 }
+
 .new-year-discount {
     text-align: center;
     margin-top: 100px;
 }
+
 .new-year-discount img {
     margin-top: 30px;
 }
+
 .discount-text-container {
     line-height: 60px;
 }
+
 .discount-text-container h1 {
     color: #F00;
     font-family: Inter;
     font-size: 88px;
     font-weight: 700;
 }
+
 .discount-text-container p {
     color: #F00;
     font-family: Inter;
@@ -52,12 +62,14 @@
     font-weight: 500;
     margin-top: 40px;
 }
+
 .discount-text-container h3 {
     color: #070211;
     font-family: Inter;
     font-size: 48px;
     font-style: normal;
 }
+
 .welcome-banner {
     background-image: url("../resources/vector.png");
     background-repeat: no-repeat;
@@ -68,16 +80,19 @@
     border-radius: 10px;
     position: relative;
 }
+
 .welcome-banner img {
     position: absolute;
     top: 300px;
     right: 150px;
 }
+
 .banner-text-midnight {
     text-align: left;
     padding-left: 126px;
     padding-right: 600px;
 }
+
 .banner-text-midnight h1 {
     color: #FFF;
     font-family: Merriweather;
@@ -88,6 +103,7 @@
     letter-spacing: 7.04px;
     margin-bottom: 50px;
 }
+
 .banner-text-midnight p {
     color: rgba(255, 255, 255, 0.80);
     font-family: Inter;
@@ -97,6 +113,7 @@
     line-height: 30px;
     margin-bottom: 50px;
 }
+
 .banner-text-midnight h3>a {
     color: #FFF;
     text-align: center;
@@ -107,6 +124,7 @@
     line-height: normal;
     text-transform: uppercase;
 }
+
 .join-now {
     background-color: rgb(255, 240, 242);
     text-align: center;
@@ -114,26 +132,31 @@
     line-height: 45px;
     margin-bottom: 50px;
 }
-.join-now span{
+
+.join-now span {
     color: red;
 }
-.join-now button{
-color: #FFF;
-font-family: Inter;
-padding: 10px 15px;
-border-radius: 5px;
-background-color: red;
-border: 0px;
-margin-top: 40px;
+
+.join-now button {
+    color: #FFF;
+    font-family: Inter;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: red;
+    border: 0px;
+    margin-top: 40px;
 }
-.portfolio{
-width: 100%;
+
+.portfolio {
+    width: 100%;
 }
-.portfolio-text{
-margin-bottom: 30px;
-line-height: 40px;
+
+.portfolio-text {
+    margin-bottom: 30px;
+    line-height: 40px;
 }
-.portfolio-text h2{
+
+.portfolio-text h2 {
     color: #070211;
 
     font-family: Merriweather;
@@ -143,11 +166,13 @@ line-height: 40px;
     line-height: normal;
     text-transform: capitalize;
 }
-.pr-text{
+
+.pr-text {
     padding-right: 800px;
     line-height: 30px;
 }
-.portfolio-text span{
+
+.portfolio-text span {
     color: #F00;
 
     font-family: Inter;
@@ -156,11 +181,51 @@ line-height: 40px;
     font-weight: 500;
     line-height: normal;
 }
-.portfolio-images{
-margin-bottom: 30px;
+
+.portfolio-images {
+    margin-bottom: 30px;
 }
-.portfolio-images img{
+
+.portfolio-images img {
     margin-right: 40px;
+}
+
+.subscribe-newsletter {
+    text-align: center;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    padding: 100px 400px;
+    line-height: 50px;
+}
+.subscribe-newsletter h2 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.subscribe-newsletter p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-style: normal;
+    line-height: 30px;
+}
+.subscribe-newsletter input[type="text"] {
+    margin-top: 30px;
+border: 0px;
+padding: 10px 70px;
+padding-left: 20px;
+border-radius: 50px 0px 0px 50px;
+}
+.subscribe-newsletter input[type="submit"] {
+padding: 10px 25px;
+background-color: red;
+color: white;
+border: 0px;
+border-radius: 0px 50px 50px 0px;
+margin-left: -5px;
 }
 .main-footer {
     background: #070211;
